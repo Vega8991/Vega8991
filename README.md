@@ -16,12 +16,12 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="75%">
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o4NWJ1MHE1ZnNpbW1yb3Y5cWJvdGJwY2k4cWQ1and4NDJtdnl0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)  
 
 
-</td><td valign="top" width="50%">
+
 
 
 
