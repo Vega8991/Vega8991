@@ -21,7 +21,6 @@ What sets my workflow apart: I build **with AI agents** (Claude Code, multi-agen
 -  Into **cinematic, scroll-driven web experiences** with 3D and motion (Three.js · React Three Fiber · GSAP)
 -  Comfortable across the stack: **React · Angular · Tailwind · Node · NestJS · Django · SQL & NoSQL**
 -  Currently going deep on **AI agents, multi-agent orchestration and automation with n8n**
--  Off the keyboard: video games and music
 
 </td>
 <td width="38%" valign="middle" align="center">
