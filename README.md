@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/manuel-vega-viñuelas-b4159032b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:manuelvega011204@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Vega8991&style=for-the-badge&color=555555&label=Profile+views" alt="Profile views" />
 </p>
 
 <br/>
