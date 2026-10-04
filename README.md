@@ -1,96 +1,72 @@
-## Hey 👋, I'm Manuel Vega!😆  
-  
+<h1 align="center">Hey 👋, I'm Manuel Vega</h1>
+<h3 align="center">Full-stack developer · Creative web experiences · AI-agent powered workflow</h3>
 
-<a href="https://linkedin.com/in/manuel-vega-viñuelas-b4159032b/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center">
+  <a href="https://linkedin.com/in/manuel-vega-viñuelas-b4159032b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:manuelvega011204@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Vega8991&style=for-the-badge&color=555555&label=Profile+views" alt="Profile views" />
+</p>
 
+<br/>
 
+<table>
+<tr>
+<td width="62%" valign="top">
 
-### Glad to see you here!  
-👋 Hi there! I'm Manuel Vega, a passionate web development student focused on becoming a full-stack developer. I love creating sleek, scalable, and user-friendly apps 🌐. Currently sharpening my skills in both front-end and back-end technologies. Let’s build something amazing together! 🚀  
-  
+### 🚀 About me
 
-<br/>  
+I'm a full-stack developer from **Seville, Spain** who loves building web apps that look great, feel fast and scale well — from the database all the way up to the last pixel and animation.
 
+What sets my workflow apart: I build **with AI agents** (Claude Code, multi-agent setups) as part of my day-to-day, which lets me prototype quickly, learn new stacks fast and spend more time on what matters — product, details and quality.
 
-## Rapidfire  
-<table><tr><td valign="top" width="300px">
+-  Into **cinematic, scroll-driven web experiences** with 3D (Three.js / WebGL)
+-  Comfortable across the stack: **React · Angular · Node · Django · SQL & NoSQL**
+-  Currently going deep on **AI agents and multi-agent orchestration**
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o4NWJ1MHE1ZnNpbW1yb3Y5cWJvdGJwY2k4cWQ1and4NDJtdnl0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)  
+</td>
+<td width="38%" valign="middle" align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o4NWJ1MHE1ZnNpbW1yb3Y5cWJvdGJwY2k4cWQ1and4NDJtdnl0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="260" alt="coding gif" />
 
+</td>
+</tr>
+</table>
 
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
-
-<br/>  
+<br/>
 
 
-<br/>  
+## 🛠️ Tech stack
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Vega8991&&style=flat-square)  
-  
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite,threejs,bootstrap&perline=9" alt="Frontend" />
+</p>
 
-<br/>  
+**Backend & databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,py,django,postgres,mysql,sqlite,mongodb&perline=9" alt="Backend and databases" />
+</p>
 
+**Tools & workflow**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jest,bash,vscode,figma,md&perline=9" alt="Tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
 
-<br />
+<br/>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vega8991&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vega8991&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+<br/>
+
+<p align="center">
+  <b>Let's build something amazing together!</b> 🚀<br/>
+  Open to job opportunities and freelance projects — feel free to reach out.
+</p>
